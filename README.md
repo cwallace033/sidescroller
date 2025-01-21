@@ -15,7 +15,6 @@ to run on mac os.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Itch.io](https://itch.io/game-assets) Free game assets such as sprites and sounds.
 * [Python Arcade](https://api.arcade.academy/en/stable/get_started.html) Detailed walkthrough for beginners projects. 
 
